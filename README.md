@@ -1,16 +1,25 @@
-## Hi there 👋
+# Carl Leger 👋
 
-<!--
-**CarlLeger/CarlLeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 WordPress & WooCommerce performance specialist focused on speed, optimization, and security.  
+Founder and developer of **SteaPlay**, a production WooCommerce platform.
 
-Here are some ideas to get you started:
+## 🔧 What I do
+- ⚡ WooCommerce speed optimization (Core Web Vitals, TTFB, caching)
+- 🧠 Performance troubleshooting (slow admin, heavy plugins, database issues)
+- ☁️ Cloudflare & caching rules (WooCommerce-safe)
+- 🔒 Security hardening & malware cleanup
+- 🧩 Custom WooCommerce features and fixes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 SteaPlay — Real-world case study
+**SteaPlay** is my real-world WooCommerce project used as a production environment to:
+- test and validate performance optimizations
+- build custom WooCommerce functionality
+- document real fixes and scalable setups
+
+This allows me to work on real problems, not just demos.
+
+## 🛠 Tech stack
+WordPress · WooCommerce · PHP · JavaScript · HTML/CSS · Cloudflare
+
+## 📬 Availability
+Open to short-term fixes and performance optimization projects.
