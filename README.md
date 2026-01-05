@@ -24,10 +24,17 @@ WordPress · WooCommerce · PHP · JavaScript · HTML/CSS
 Gutenberg · ACF · WP-CLI · Git/GitHub · Cloudflare
 
 🎓 Certifications
-HubSpot Academy – Inbound Marketing (2025)
-Credential:
+- HubSpot Academy – SEO (Search Engine Optimization) (2025)
+- HubSpot Academy – Content Marketing (2025)
+- HubSpot Academy – Inbound Marketing (2025)
+- Google Skillshop – Google Analytics 4 (GA4) (2025)
+- Cisco Networking Academy – Introduction to Cybersecurity (2025)
 
+Credential:
+[![HubSpot SEO Certification](https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/635dba36beb24fec811441fbb8a4ad89.png)](https://app-na3.hubspot.com/academy/achievements/yfykthk9/en/1/carl-leger/seo)
 [![HubSpot Academy – Inbound Marketing](https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/e9654e3240c3413db8a09198073d1843.png)](https://app-na3.hubspot.com/academy/achievements/qcblcdxd/en/1/carl-leger/inbound-marketing)
+[![HubSpot Content Marketing Certification](https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/883aa0895d844a21a99156494ea8c1cc.png)](https://app-na3.hubspot.com/academy/achievements/lrb623cg/fr/1/carl-leger/le-marketing-de-contenu)
+
 
 📬 Availability
 Open to remote WordPress / WooCommerce roles and performance-focused projects in collaborative team environments.
