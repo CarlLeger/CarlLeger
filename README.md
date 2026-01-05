@@ -34,18 +34,22 @@ Credential:
 
 <p>
   <a href="https://app-na3.hubspot.com/academy/achievements/yfykthk9/en/1/carl-leger/seo" title="HubSpot SEO">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/635dba36beb24fec811441fbb8a4ad89.png" width="120" alt="HubSpot SEO Certification" />
-  </a>
+    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/635dba36beb24fec811441fbb8a4ad89.png" height="120" alt="HubSpot SEO Certification" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://app-na3.hubspot.com/academy/achievements/qcblcdxd/en/1/carl-leger/inbound-marketing" title="HubSpot Inbound Marketing">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/e9654e3240c3413db8a09198073d1843.png" width="120" alt="HubSpot Inbound Marketing" />
-  </a>
+    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/e9654e3240c3413db8a09198073d1843.png" height="120" alt="HubSpot Inbound Marketing" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://app-na3.hubspot.com/academy/achievements/lrb623cg/fr/1/carl-leger/le-marketing-de-contenu" title="HubSpot Content Marketing">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/883aa0895d844a21a99156494ea8c1cc.png" width="120" alt="HubSpot Content Marketing Certification" />
-  </a>
+    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/883aa0895d844a21a99156494ea8c1cc.png" height="120" alt="HubSpot Content Marketing Certification" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.credly.com/badges/879658b1-2c62-4229-8446-a2d412c80f6d" title="Cisco Introduction to Cybersecurity">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="Cisco Introduction to Cybersecurity" />
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="120" alt="Cisco Introduction to Cybersecurity" />
   </a>
 </p>
+
 
 
 📬 Availability
