@@ -57,6 +57,13 @@ Gutenberg · ACF · WP-CLI · Git/GitHub · Cloudflare
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/b67d1da151634285bb00dd8f58448505.png" height="110" alt="HubSpot Marketing Hub Certification" />
 </a>&nbsp;&nbsp;
 
+  <a href="https://skillshop.credential.net/7421b259-760d-4392-b301-ae30ce3b222c#acc.CjfTU10F" title="Google Analytics Certification">
+  <img src="https://templates.images.credential.net/17230201349535045056269506016523.png"
+       width="110"
+       height="110"
+       alt="Google Analytics Certification" />
+</a>&nbsp;&nbsp;
+  
   <a href="https://skillshop.credential.net/3c5819b3-f6fc-45bb-befe-0cd602a05e88" title="Google Ads Search Certification">
   <img src="https://templates.images.credential.net/16692030476507846323162302235838.png"
        height="110"
