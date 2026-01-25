@@ -57,6 +57,12 @@ Gutenberg · ACF · WP-CLI · Git/GitHub · Cloudflare
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/b67d1da151634285bb00dd8f58448505.png" height="110" alt="HubSpot Marketing Hub Certification" />
 </a>&nbsp;&nbsp;
 
+  <a href="https://skillshop.credential.net/3c5819b3-f6fc-45bb-befe-0cd602a05e88" title="Google Ads Search Certification">
+  <img src="https://developers.google.com/static/ads/images/google-ads-search-certification-badge.png"
+       height="110"
+       alt="Google Ads Search Certification" />
+</a>&nbsp;&nbsp;
+
   <a href="https://www.credly.com/badges/879658b1-2c62-4229-8446-a2d412c80f6d" title="Cisco Introduction to Cybersecurity">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="110" alt="Cisco Introduction to Cybersecurity" />
   </a>
