@@ -53,9 +53,9 @@ Gutenberg · ACF · WP-CLI · Git/GitHub · Cloudflare
     <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/883aa0895d844a21a99156494ea8c1cc.png" height="110" alt="HubSpot Content Marketing Certification" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://app-na3.hubspot.com/academy/achievements/9219688" title="HubSpot Marketing Hub">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/marketing-hub.png" height="110" alt="HubSpot Marketing Hub Certification" />
-  </a>&nbsp;&nbsp;
+  <a href="https://app-na3.hubspot.com/academy/award-share/9219688" title="HubSpot Marketing Hub">
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/certificates/user/b67d1da151634285bb00dd8f58448505.png" height="110" alt="HubSpot Marketing Hub Certification" />
+</a>&nbsp;&nbsp;
 
   <a href="https://www.credly.com/badges/879658b1-2c62-4229-8446-a2d412c80f6d" title="Cisco Introduction to Cybersecurity">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="110" alt="Cisco Introduction to Cybersecurity" />
