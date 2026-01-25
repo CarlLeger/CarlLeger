@@ -58,7 +58,7 @@ Gutenberg · ACF · WP-CLI · Git/GitHub · Cloudflare
 </a>&nbsp;&nbsp;
 
   <a href="https://skillshop.credential.net/3c5819b3-f6fc-45bb-befe-0cd602a05e88" title="Google Ads Search Certification">
-  <img src="https://developers.google.com/static/ads/images/google-ads-search-certification-badge.png"
+  <img src="https://templates.images.credential.net/16692030476507846323162302235838.png"
        height="110"
        alt="Google Ads Search Certification" />
 </a>&nbsp;&nbsp;
