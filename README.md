@@ -27,16 +27,16 @@ I specialize in diagnosing complex issues, improving stability, and implementing
 
 ## ⚡ Core Focus Areas
 
-* WordPress & WooCommerce troubleshooting
+* **WordPress & WooCommerce troubleshooting**
   *(plugin conflicts, configuration issues, checkout instability)*
 
-* Performance optimization
+* **Performance optimization**
   *(Core Web Vitals, TTFB reduction, caching strategies)*
 
-* Structured debugging methodology
+* **Structured debugging methodology**
   *(reproduce → isolate → analyze → resolve → validate)*
 
-* Cloudflare configuration
+* **Cloudflare configuration**
   *(DNS, CDN, WooCommerce-safe caching rules)*
 
 * Log-based diagnostics & browser performance analysis
@@ -62,18 +62,24 @@ This allows me to work with **real production challenges — not demo setups or 
 
 ## 🚀 Featured Work
 
-**TripGuidely**
-https://tripguidely.github.io
+### **TripGuidely**
+
+🔗 https://tripguidely.github.io
+
 Travel content platform optimized for **search intent, internal linking, and affiliate monetization**, featuring destination guides, transport guides, and yacht charter resources.
 
-**CarlLeger.github.io**
-https://carlleger.github.io
+### **CarlLeger.github.io**
+
+🔗 https://carlleger.github.io
+
 WordPress performance consulting portfolio and technical SEO case studies.
 
-**SteaPlay Case Study**
+### **SteaPlay Case Study**
+
 Real-world WooCommerce troubleshooting and performance investigations.
 
-**GA4 Notes**
+### **GA4 Notes**
+
 Documentation covering analytics tracking, attribution models, and measurement workflows.
 
 ---
