@@ -1,28 +1,40 @@
 # Carl Leger 👋
 
-**WordPress · WooCommerce · Performance Engineering**
+**WordPress · WooCommerce · Performance Engineering · Technical SEO**
 
-Hands-on experience working with live WordPress and WooCommerce environments, focused on structured troubleshooting, performance optimization, and production reliability.
+Hands-on experience working with **live WordPress and WooCommerce production environments**, focused on structured troubleshooting, performance optimization, and system reliability.
+
+I specialize in diagnosing complex issues, improving stability, and implementing **measurable performance improvements** for real ecommerce systems.
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlLeger&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlLeger&layout=compact&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlLeger&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlLeger&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="170"/>
 </p>
 
 ---
 
 ## ⚡ Core Focus Areas
 
-- WordPress & WooCommerce troubleshooting (plugin conflicts, configuration issues, checkout instability)
-- Performance optimization (Core Web Vitals, TTFB reduction, caching strategies)
-- Structured debugging methodology (reproduce → isolate → analyze → resolve → validate)
-- Cloudflare configuration (DNS, CDN, WooCommerce-safe caching rules)
-- Log-based diagnostics and browser performance analysis
+- WordPress & WooCommerce troubleshooting  
+  *(plugin conflicts, configuration issues, checkout instability)*
+
+- Performance optimization  
+  *(Core Web Vitals, TTFB reduction, caching strategies)*
+
+- Structured debugging methodology  
+  *(reproduce → isolate → analyze → resolve → validate)*
+
+- Cloudflare configuration  
+  *(DNS, CDN, WooCommerce-safe caching rules)*
+
+- Log-based diagnostics & browser performance analysis
+
 - WP-CLI usage for maintenance and troubleshooting
+
 - Production environment hardening and reliability improvements
 
 ---
@@ -36,20 +48,45 @@ Hands-on experience working with live WordPress and WooCommerce environments, fo
 - Test caching strategies safely in ecommerce environments  
 - Document technical constraints and structured solutions  
 
-This allows me to work with **real production challenges — not demo setups or sandbox-only builds**.
+This allows me to work with **real production challenges — not demo setups or sandbox environments**.
 
 ---
 
 ## 🚀 Featured Work
 
-- **CarlLeger.github.io**  
-  WordPress performance consulting portfolio and technical SEO case studies.
+**CarlLeger.github.io**  
+https://carlleger.github.io  
+WordPress performance consulting portfolio and technical SEO case studies.
 
-- **SteaPlay Case Study**  
-  Real-world WooCommerce troubleshooting and performance investigations.
+**SteaPlay Case Study**  
+Real-world WooCommerce troubleshooting and performance investigations.
 
-- **GA4 Notes**  
-  Practical documentation covering tracking, attribution, and analytics workflows.
+**GA4 Notes**  
+Documentation covering analytics tracking, attribution models, and measurement workflows.
+
+---
+
+## 🧰 Technical Assets
+
+### WordPress & WooCommerce
+- Troubleshooting workflows for production issues  
+- Checkout stability investigations  
+- Plugin conflict analysis and structured validation  
+
+### Performance Engineering
+- Core Web Vitals optimization workflows  
+- TTFB reduction observations  
+- Ecommerce-safe caching validation  
+
+### Analytics & Technical SEO
+- GA4 implementation documentation  
+- Attribution and reporting references  
+- Technical SEO performance observations  
+
+### Infrastructure & Debugging
+- Cloudflare configuration notes  
+- Browser and log-based debugging workflows  
+- Environment reliability documentation  
 
 ---
 
@@ -68,11 +105,11 @@ NGINX · PHP environments · DNS configuration · HTTP behavior · caching layer
 
 ## 📊 Technical Interests
 
-- Core Web Vitals optimization
-- WordPress infrastructure reliability
-- WooCommerce checkout stability
-- Technical SEO performance
-- Web performance debugging workflows
+- Core Web Vitals optimization  
+- WordPress infrastructure reliability  
+- WooCommerce checkout stability  
+- Technical SEO performance  
+- Web performance debugging workflows  
 
 ---
 
@@ -82,6 +119,8 @@ NGINX · PHP environments · DNS configuration · HTTP behavior · caching layer
 - Google Ads Search — Google Skillshop  
 - HubSpot SEO  
 - HubSpot Inbound Marketing  
+- HubSpot Content Marketing  
+- HubSpot Marketing Hub  
 - Cisco — Introduction to Cybersecurity  
 
 ---
@@ -122,4 +161,4 @@ NGINX · PHP environments · DNS configuration · HTTP behavior · caching layer
 
 ## 📬 Availability
 
-Open to **remote WordPress support, hosting, or performance-focused roles** within distributed teams.
+Open to **remote WordPress support, hosting, or performance-focused roles within distributed teams.**
