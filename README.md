@@ -25,94 +25,104 @@ I specialize in diagnosing complex issues, improving stability, and implementing
 
 ---
 
-## ⚡ Core Focus Areas
+# ⚡ Core Focus Areas
 
-* **WordPress & WooCommerce troubleshooting**
-  *(plugin conflicts, configuration issues, checkout instability)*
+### WordPress & WooCommerce troubleshooting
+(plugin conflicts, configuration issues, checkout instability)
 
-* **Performance optimization**
-  *(Core Web Vitals, TTFB reduction, caching strategies)*
+### Performance optimization
+(Core Web Vitals, TTFB reduction, caching strategies)
 
-* **Structured debugging methodology**
-  *(reproduce → isolate → analyze → resolve → validate)*
+### Structured debugging methodology
+(reproduce → isolate → analyze → resolve → validate)
 
-* **Cloudflare configuration**
-  *(DNS, CDN, WooCommerce-safe caching rules)*
+### Cloudflare configuration
+(DNS, CDN, WooCommerce-safe caching rules)
 
-* Log-based diagnostics & browser performance analysis
-
-* WP-CLI usage for maintenance and troubleshooting
-
-* Production environment hardening and reliability improvements
+### Production diagnostics
+(log-based debugging, browser performance analysis, environment stability)
 
 ---
 
-## 🧪 Production Environment — SteaPlay
+# 🚀 Featured Projects
 
-**SteaPlay** is a live WooCommerce environment used as a real-world testing ground to:
-
-* Validate performance optimizations under real traffic conditions
-* Investigate plugin conflicts and configuration edge cases
-* Test caching strategies safely in ecommerce environments
-* Document technical constraints and structured solutions
-
-This allows me to work with **real production challenges — not demo setups or sandbox environments**.
-
----
-
-## 🚀 Featured Work
-
-### **TripGuidely**
+### TripGuidely
 
 🔗 https://tripguidely.github.io
 
-Travel content platform optimized for **search intent, internal linking, and affiliate monetization**, featuring destination guides, transport guides, and yacht charter resources.
+SEO-driven travel platform designed around **search intent, scalable content architecture, and affiliate booking flows**.
 
-### **CarlLeger.github.io**
+The project focuses on:
+
+- destination travel guides
+- transport guides for major cities
+- yacht charter booking resources
+- internal linking optimized for SEO clusters
+- static architecture optimized for performance
+
+---
+
+### RobotVacuumLab
+
+Product review platform focused on **robot vacuum comparisons, buying guides, and SEO-driven product content architecture**.
+
+The project explores:
+
+- product comparison pages
+- search intent optimized review content
+- affiliate-focused information architecture
+- structured internal linking for product clusters
+
+---
+
+### CarlLeger.github.io
 
 🔗 https://carlleger.github.io
 
-WordPress performance consulting portfolio and technical SEO case studies.
-
-### **SteaPlay Case Study**
-
-Real-world WooCommerce troubleshooting and performance investigations.
-
-### **GA4 Notes**
-
-Documentation covering analytics tracking, attribution models, and measurement workflows.
+Personal portfolio focused on **WordPress performance engineering, technical SEO, and WooCommerce reliability investigations.**
 
 ---
 
-## 🧰 Technical Assets
+### GA4 Implementation Notes
 
-### WordPress & WooCommerce
+Documentation covering:
 
-* Troubleshooting workflows for production issues
-* Checkout stability investigations
-* Plugin conflict analysis and structured validation
-
-### Performance Engineering
-
-* Core Web Vitals optimization workflows
-* TTFB reduction observations
-* Ecommerce-safe caching validation
-
-### Analytics & Technical SEO
-
-* GA4 implementation documentation
-* Attribution and reporting references
-* Technical SEO performance observations
-
-### Infrastructure & Debugging
-
-* Cloudflare configuration notes
-* Browser and log-based debugging workflows
-* Environment reliability documentation
+- analytics tracking
+- attribution models
+- measurement workflows
+- debugging GA4 implementations
 
 ---
 
-## 🛠 Technical Stack
+# 🧰 Technical Assets
+
+## WordPress & WooCommerce
+
+- troubleshooting workflows for production issues  
+- checkout stability investigations  
+- plugin conflict analysis  
+
+## Performance Engineering
+
+- Core Web Vitals optimization workflows  
+- TTFB reduction observations  
+- ecommerce-safe caching validation  
+
+## Analytics & Technical SEO
+
+- GA4 implementation documentation  
+- attribution and reporting references  
+- technical SEO performance observations  
+
+## Infrastructure & Debugging
+
+- Cloudflare configuration notes  
+- browser debugging workflows  
+- environment reliability documentation  
+
+---
+
+# 🛠 Technical Stack
 
 ### Core Technologies
 
@@ -128,29 +138,29 @@ NGINX · PHP environments · DNS configuration · HTTP behavior · caching layer
 
 ---
 
-## 📊 Technical Interests
+# 📊 Technical Interests
 
-* Core Web Vitals optimization
-* WordPress infrastructure reliability
-* WooCommerce checkout stability
-* Technical SEO performance
-* Web performance debugging workflows
-
----
-
-## 🎓 Certifications
-
-* Google Analytics 4 — Google Skillshop
-* Google Ads Search — Google Skillshop
-* HubSpot SEO
-* HubSpot Inbound Marketing
-* HubSpot Content Marketing
-* HubSpot Marketing Hub
-* Cisco — Introduction to Cybersecurity
+- Core Web Vitals optimization  
+- WordPress infrastructure reliability  
+- WooCommerce checkout stability  
+- Technical SEO performance  
+- Web performance debugging workflows  
 
 ---
 
-## 🏅 Credentials
+# 🎓 Certifications
+
+- Google Analytics 4 — Google Skillshop  
+- Google Ads Search — Google Skillshop  
+- HubSpot SEO  
+- HubSpot Inbound Marketing  
+- HubSpot Content Marketing  
+- HubSpot Marketing Hub  
+- Cisco — Introduction to Cybersecurity  
+
+---
+
+# 🏅 Credentials
 
 <p>
   <a href="https://app-na3.hubspot.com/academy/achievements/yfykthk9/en/1/carl-leger/seo">
@@ -184,6 +194,6 @@ NGINX · PHP environments · DNS configuration · HTTP behavior · caching layer
 
 ---
 
-## 📬 Availability
+# 📬 Availability
 
-Open to **remote WordPress support, hosting, or performance-focused roles within distributed teams.**
+Open to **remote WordPress, WooCommerce performance, and technical SEO roles within distributed teams.**
