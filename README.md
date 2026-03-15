@@ -17,6 +17,14 @@ I specialize in diagnosing complex issues, improving stability, and implementing
 
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlLeger&theme=transparent&hide_border=true" />
+</p>
+
+---
+
 ## ⚡ Core Focus Areas
 
 * WordPress & WooCommerce troubleshooting
