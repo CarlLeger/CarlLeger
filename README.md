@@ -1,14 +1,21 @@
 # Carl Leger 👋
 
-## WordPress & WooCommerce Support / Performance Specialist
+**WordPress · WooCommerce · Performance Engineering**
 
 Hands-on experience working with live WordPress and WooCommerce environments, focused on structured troubleshooting, performance optimization, and production reliability.
 
-I work on real production systems — diagnosing issues, improving stability, and implementing solutions that are measurable and repeatable.
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlLeger&show_icons=true&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlLeger&layout=compact&theme=dark&hide_border=true" height="170" />
+</p>
 
 ---
 
-## 🔍 Core Focus Areas
+## ⚡ Core Focus Areas
 
 - WordPress & WooCommerce troubleshooting (plugin conflicts, configuration issues, checkout instability)
 - Performance optimization (Core Web Vitals, TTFB reduction, caching strategies)
@@ -16,33 +23,56 @@ I work on real production systems — diagnosing issues, improving stability, an
 - Cloudflare configuration (DNS, CDN, WooCommerce-safe caching rules)
 - Log-based diagnostics and browser performance analysis
 - WP-CLI usage for maintenance and troubleshooting
-- Environment hardening and production stability improvements
+- Production environment hardening and reliability improvements
 
 ---
 
 ## 🧪 Production Environment — SteaPlay
 
-SteaPlay is a live WooCommerce environment used as a real-world test bed to:
+**SteaPlay** is a live WooCommerce environment used as a real-world testing ground to:
 
 - Validate performance optimizations under real traffic conditions  
 - Investigate plugin conflicts and configuration edge cases  
-- Test caching strategies safely in ecommerce contexts  
-- Document technical constraints and structured fixes  
+- Test caching strategies safely in ecommerce environments  
+- Document technical constraints and structured solutions  
 
-This allows me to work with real production challenges — not demo setups or sandbox-only builds.
+This allows me to work with **real production challenges — not demo setups or sandbox-only builds**.
+
+---
+
+## 🚀 Featured Work
+
+- **CarlLeger.github.io**  
+  WordPress performance consulting portfolio and technical SEO case studies.
+
+- **SteaPlay Case Study**  
+  Real-world WooCommerce troubleshooting and performance investigations.
+
+- **GA4 Notes**  
+  Practical documentation covering tracking, attribution, and analytics workflows.
 
 ---
 
 ## 🛠 Technical Stack
 
-**Core Technologies**  
-WordPress · WooCommerce · PHP · JavaScript · HTML/CSS  
+### Core Technologies
+WordPress · WooCommerce · PHP · JavaScript · HTML · CSS
 
-**Infrastructure & Tools**  
-Cloudflare · WP-CLI · Git/GitHub · Chrome DevTools  
-Basic Linux CLI familiarity  
-NGINX & PHP environment fundamentals  
-DNS configuration · HTTP behavior · Caching layers  
+### Infrastructure & Tools
+Cloudflare · WP-CLI · Git · GitHub · Chrome DevTools
+
+### Environment Fundamentals
+NGINX · PHP environments · DNS configuration · HTTP behavior · caching layers
+
+---
+
+## 📊 Technical Interests
+
+- Core Web Vitals optimization
+- WordPress infrastructure reliability
+- WooCommerce checkout stability
+- Technical SEO performance
+- Web performance debugging workflows
 
 ---
 
@@ -92,4 +122,4 @@ DNS configuration · HTTP behavior · Caching layers
 
 ## 📬 Availability
 
-Open to remote WordPress support, hosting, or performance-focused roles within distributed teams.
+Open to **remote WordPress support, hosting, or performance-focused roles** within distributed teams.
