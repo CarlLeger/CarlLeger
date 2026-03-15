@@ -19,23 +19,23 @@ I specialize in diagnosing complex issues, improving stability, and implementing
 
 ## ⚡ Core Focus Areas
 
-- WordPress & WooCommerce troubleshooting  
+* WordPress & WooCommerce troubleshooting
   *(plugin conflicts, configuration issues, checkout instability)*
 
-- Performance optimization  
+* Performance optimization
   *(Core Web Vitals, TTFB reduction, caching strategies)*
 
-- Structured debugging methodology  
+* Structured debugging methodology
   *(reproduce → isolate → analyze → resolve → validate)*
 
-- Cloudflare configuration  
+* Cloudflare configuration
   *(DNS, CDN, WooCommerce-safe caching rules)*
 
-- Log-based diagnostics & browser performance analysis
+* Log-based diagnostics & browser performance analysis
 
-- WP-CLI usage for maintenance and troubleshooting
+* WP-CLI usage for maintenance and troubleshooting
 
-- Production environment hardening and reliability improvements
+* Production environment hardening and reliability improvements
 
 ---
 
@@ -43,10 +43,10 @@ I specialize in diagnosing complex issues, improving stability, and implementing
 
 **SteaPlay** is a live WooCommerce environment used as a real-world testing ground to:
 
-- Validate performance optimizations under real traffic conditions  
-- Investigate plugin conflicts and configuration edge cases  
-- Test caching strategies safely in ecommerce environments  
-- Document technical constraints and structured solutions  
+* Validate performance optimizations under real traffic conditions
+* Investigate plugin conflicts and configuration edge cases
+* Test caching strategies safely in ecommerce environments
+* Document technical constraints and structured solutions
 
 This allows me to work with **real production challenges — not demo setups or sandbox environments**.
 
@@ -54,14 +54,18 @@ This allows me to work with **real production challenges — not demo setups or 
 
 ## 🚀 Featured Work
 
-**CarlLeger.github.io**  
-https://carlleger.github.io  
+**TripGuidely**
+https://tripguidely.github.io
+Travel content platform optimized for **search intent, internal linking, and affiliate monetization**, featuring destination guides, transport guides, and yacht charter resources.
+
+**CarlLeger.github.io**
+https://carlleger.github.io
 WordPress performance consulting portfolio and technical SEO case studies.
 
-**SteaPlay Case Study**  
+**SteaPlay Case Study**
 Real-world WooCommerce troubleshooting and performance investigations.
 
-**GA4 Notes**  
+**GA4 Notes**
 Documentation covering analytics tracking, attribution models, and measurement workflows.
 
 ---
@@ -69,59 +73,66 @@ Documentation covering analytics tracking, attribution models, and measurement w
 ## 🧰 Technical Assets
 
 ### WordPress & WooCommerce
-- Troubleshooting workflows for production issues  
-- Checkout stability investigations  
-- Plugin conflict analysis and structured validation  
+
+* Troubleshooting workflows for production issues
+* Checkout stability investigations
+* Plugin conflict analysis and structured validation
 
 ### Performance Engineering
-- Core Web Vitals optimization workflows  
-- TTFB reduction observations  
-- Ecommerce-safe caching validation  
+
+* Core Web Vitals optimization workflows
+* TTFB reduction observations
+* Ecommerce-safe caching validation
 
 ### Analytics & Technical SEO
-- GA4 implementation documentation  
-- Attribution and reporting references  
-- Technical SEO performance observations  
+
+* GA4 implementation documentation
+* Attribution and reporting references
+* Technical SEO performance observations
 
 ### Infrastructure & Debugging
-- Cloudflare configuration notes  
-- Browser and log-based debugging workflows  
-- Environment reliability documentation  
+
+* Cloudflare configuration notes
+* Browser and log-based debugging workflows
+* Environment reliability documentation
 
 ---
 
 ## 🛠 Technical Stack
 
 ### Core Technologies
+
 WordPress · WooCommerce · PHP · JavaScript · HTML · CSS
 
 ### Infrastructure & Tools
+
 Cloudflare · WP-CLI · Git · GitHub · Chrome DevTools
 
 ### Environment Fundamentals
+
 NGINX · PHP environments · DNS configuration · HTTP behavior · caching layers
 
 ---
 
 ## 📊 Technical Interests
 
-- Core Web Vitals optimization  
-- WordPress infrastructure reliability  
-- WooCommerce checkout stability  
-- Technical SEO performance  
-- Web performance debugging workflows  
+* Core Web Vitals optimization
+* WordPress infrastructure reliability
+* WooCommerce checkout stability
+* Technical SEO performance
+* Web performance debugging workflows
 
 ---
 
 ## 🎓 Certifications
 
-- Google Analytics 4 — Google Skillshop  
-- Google Ads Search — Google Skillshop  
-- HubSpot SEO  
-- HubSpot Inbound Marketing  
-- HubSpot Content Marketing  
-- HubSpot Marketing Hub  
-- Cisco — Introduction to Cybersecurity  
+* Google Analytics 4 — Google Skillshop
+* Google Ads Search — Google Skillshop
+* HubSpot SEO
+* HubSpot Inbound Marketing
+* HubSpot Content Marketing
+* HubSpot Marketing Hub
+* Cisco — Introduction to Cybersecurity
 
 ---
 
